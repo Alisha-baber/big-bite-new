@@ -133,10 +133,6 @@ Feel free to use this template for your restaurant website projects. You can cus
 
 Contributions are welcome! If you have suggestions for improvements or find any issues, please create a pull request or open an issue on the GitHub repository.
 
-## 📝 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
 ## 👨‍💻 Author
 
 - **alisha babar**  
