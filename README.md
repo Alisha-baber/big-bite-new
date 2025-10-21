@@ -1,4 +1,4 @@
-﻿# big-bite
+﻿# BIG BITE
 
 # Premium Restaurant Website Template
 
@@ -90,7 +90,9 @@ The website template is compatible with all modern browsers including:
 
 ## Conclusion
 
-This restaurant website template provides everything needed to create a professional online presence for your restaurant. With its modern design, responsive layout, and comprehensive features, it offers an excellent starting point for showcasing your culinary offerings and attracting new customers.plaintext
+This restaurant website template provides everything needed to create a professional online presence for your restaurant. With its modern design, responsive layout, and comprehensive features, it offers an excellent starting point for showcasing your culinary offerings and attracting new customers.
+
+```plaintext
 /
 ├── assets/
 │   ├── css/
@@ -106,42 +108,20 @@ This restaurant website template provides everything needed to create a professi
 └── README.md                # Documentation
 ```
 
-## 📦 Installation
-
-To run this project locally, follow these steps:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com
-   ```
-2. **Navigate to the project directory**:
-   ```bash
-   cd Restoran
-   ```
-3. **Open `index.html` in your preferred web browser** to view the template.
 
 
-## 📸 Image Credits
 
-All images used in this template are sourced from free online resources. Since the exact sources are unknown, please ensure to use your own images or attribute them appropriately if you know their origins.
-
-## 🚀 Usage
-
-Feel free to use this template for your restaurant website projects. You can customize the content, styles, and images to suit your needs. The code is well-organized and easy to modify.
-
-## 🌟 Contributing
-
-Contributions are welcome! If you have suggestions for improvements or find any issues, please create a pull request or open an issue on the GitHub repository.
 
 ## 👨‍💻 Author
 
-- **alisha babar**  
+- **Alisha babar**  
   - [GitHub](https://github.com))
 
 ## 📞 Contact
 
 For any inquiries or feedback, feel free to reach out at:
-- **Email**: []
+- **Email**: [alishababer614@gmail.com]
+
 
 ## 📢 Hashtags
 
