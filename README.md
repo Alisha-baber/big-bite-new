@@ -2,7 +2,7 @@
 
 # Premium Restaurant Website Template
 
-![Restaurant Website Preview](assets\images\tamplet.png)
+![Restaurant Website Preview](https://big-bite-new.pages.dev/)
 
 A modern and responsive restaurant website template designed and developed using cutting-edge front-end technologies. This template provides a complete solution for creating professional restaurant websites with an elegant and user-friendly experience.
 
